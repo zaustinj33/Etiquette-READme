@@ -1,0 +1,25 @@
+# Commit Etiquette
+
+From https://stories.devacademy.la/how-to-use-github-like-a-proper-human-being-1a9c895c4e13:
+
+    Keep your commits atomic. 
+    What’s this mean? Fresh Consulting says that you should apply changes as you make them.
+    Your commit should revolve around ONE change or fix. 
+    If you have to add an “and” in your commit message, you’ve already committed too much.
+    
+    Keep your commit message under 50 characters. Why? Shorter things are easier to read, like this sentence. 
+    Capitalize the first word your commit message. 
+    This is seen as generally good conduct by most gitsperts. 
+    Sentence case is also more professional looking and easier to read. (See a pattern here?)
+    
+    Don’t end your commit message with a period. Leave people in suspense. Leave them wanting more. 
+    Also, you want to make sure your 50 characters are well spent.
+   
+   Use an imperative commit message. Make your commits sound like you gave a command to someone. 
+   Programming is normally defined as “ordering your computer to do things”, so might as well keep that reputation up, right?
+   
+   Use the same language in your commit messages. 
+   Most people seem to use English as their preferred language, but it doesn’t mean you have to. 
+   What you do have to do is be consistent. Don’t mix phrases in one language with another language.
+   
+   
